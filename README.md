@@ -1,2 +1,5 @@
-# rise-of-the-machines
-de vliegende computer
+------------------------
+| rise-of-the-machines |
+------------------------
+
+'de vliegende computer' 
